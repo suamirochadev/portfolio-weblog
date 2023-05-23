@@ -1,16 +1,30 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
-heroImage: "/placeholder-hero.jpg"
+title: "001 - The Day I Embraced Programming: A Journey of Transformation"
+description: "Discover the pivotal day when I made the life-changing decision 
+to dive into the world of programming. Join me on a captivating journey of 
+personal growth, challenges, and triumphs as I unlocked the limitless potential 
+of coding."
+pubDate: "May 22 2023"
+heroImage: "/placeholder-blog-1.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+My journey in programming began when I watched the dorama Start Up, also known as Apostando Alto, which explores the entrepreneurial path in the world of technology. The story revolves around a struggling family, where the father seeks support for his software project in a start-up. Unfortunately, his project is rejected, and he suffers a stroke on the bus on his way back home.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+This event sparked in me the desire to immerse myself in the world of technology and help others. The daughter decides to take the reins and start her own start-up, driven by the dream of making a difference. Throughout the dorama, we witness the development of this start-up through a hackathon and the real challenges faced to help the community. This story caught my attention and made me reflect on why I didn't choose this field earlier, as it seems so aligned with who I am.
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+![](https://upload.wikimedia.org/wikipedia/pt/c/cd/Start_Up_poster.jpg)
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+
+The next day, I made the decision to enroll at Centro Universitário Internacional UNINTER, and since then, I haven't stopped studying programming. My ultimate goal is to create software that benefits the community and brings a positive impact to people's lives.
+
+When I was a child, I had the opportunity to play with those big and heavy computers. It was fun spending hours drawing on Paint and playing classic Windows games like chess and solitaire. At that time, I wasn't very connected to technology because I came from a humble family and had limited exposure to it. However, looking back, I realize that I had a natural aptitude for learning new features.
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/0a/Ibm300pl.jpg)
+
+
+Another joyful memory is my passion for tinkering with Nokia cellphones. When I discovered that I could also become a mobile developer, my eyes lit up with happiness. This idea sparked a unique enthusiasm within me because I could create applications and explore the full potential of mobile devices.
+
+
+![](https://sites.unoeste.br/museufipp/wp-content/uploads/2016/09/nokia-2280-3.jpg)

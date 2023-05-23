@@ -4,7 +4,7 @@
   License MIT: https://github.com/HermanMartinus/bearblog/blob/master/LICENSE.md
  */
 body {
-	font-family: Verdana, sans-serif;
+	font-family: poppins, sans-serif;
 	margin: auto;
 	padding: 20px;
 	max-width: 65ch;
@@ -26,7 +26,14 @@ b {
 	color: #222;
 }
 a {
-	color: #3273dc;
+	color: #8407FB;
+	text-decoration: none;
+	color: blueviolet;
+}
+a:hover {
+	color: #54129D;
+	font-weight: bold;
+	text-decoration-line: underline;
 }
 nav a {
 	margin-right: 10px;
@@ -64,4 +71,22 @@ blockquote {
 	padding: 2px 0px 2px 20px;
 	margin: 0px;
 	font-style: italic;
+}
+html.dark body {
+  background-color: #0D0C0E;
+  color: #fff;
+}
+
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6, .dark strong, .dark b {
+	color: #8733FF;
+}
+
+.dark .nav-links a {
+  color: #fff;
+}
+.dark blockquote {
+	color: #fff;
+}
+.dark code {
+	color: #1E1E1E;
 }

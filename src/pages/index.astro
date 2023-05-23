@@ -2,7 +2,8 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { SITE_TITLE, SITE_DESCRIPTION, SITE_SUBTITLE } from '../consts';
+import ThemeIcon from '../components/ThemeIcon.astro';
 ---
 
 <!DOCTYPE html>
@@ -11,38 +12,44 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
-		<Header title={SITE_TITLE} />
+		<Header title={SITE_SUBTITLE} />
 		<main>
-			<h1>🧑‍🚀 Hello, Astronaut!</h1>
+			<h1>🚀 Hello!</h1>
 			<p>
-				Welcome to the official <a href="https://astro.build/">Astro</a> blog starter template. This
-				template serves as a lightweight, minimally-styled starting point for anyone looking to build
-				a personal website, blog, or portfolio with Astro.
+				Welcome to my portfolio homepage! Here you will find a collection of my 
+				creative works and exciting projects. Allow me to take you on a visual 
+				journey and explore the world of my creations.
 			</p>
 			<p>
-				This template comes with a few integrations already configured in your
-				<code>astro.config.mjs</code> file. You can customize your setup with
-				<a href="https://astro.build/integrations">Astro Integrations</a> to add tools like Tailwind,
-				React, or Vue to your project.
-			</p>
-			<p>Here are a few ideas on how to get started with the template:</p>
-			<ul>
-				<li>Edit this page in <code>src/pages/index.astro</code></li>
-				<li>Edit the site header items in <code>src/components/Header.astro</code></li>
-				<li>Add your name to the footer in <code>src/components/Footer.astro</code></li>
-				<li>Check out the included blog posts in <code>src/pages/blog/</code></li>
-				<li>Customize the blog post page layout in <code>src/layouts/BlogPost.astro</code></li>
-			</ul>
-			<p>
-				Have fun! If you get stuck, remember to <a href="https://docs.astro.build/"
-					>read the docs
-				</a> or <a href="https://astro.build/chat">join us on Discord</a> to ask questions.
+				I am a passionate individual when it comes to technology, design, and 
+				innovation, and each project in this portfolio reflects my dedication to
+				creating something unique and impactful. From vibrant interfaces to 
+				elegant software, my approach seeks to combine visual aesthetics with 
+				functionality and purpose.
 			</p>
 			<p>
-				Looking for a blog template with a bit more personality? Check out <a
-					href="https://github.com/Charca/astro-blog-template"
-					>astro-blog-template
-				</a> by <a href="https://twitter.com/Charca">Maxi Ferreira</a>.
+				Navigate through the different sections to discover my diverse skills 
+				and commitment to excellence. Each project has been developed with care 
+				and attention to detail, aiming to convey powerful messages and evoke 
+				emotions in viewers.
+			</p>
+			<p>
+				Furthermore, feel free to explore my creative process and get to know 
+				me a little better. I believe that creativity is an ongoing journey, 
+				and I am always in search of new challenges and inspirations. I am 
+				excited to share my passions and experiences with you.
+			</p>
+			<p>
+				If you are seeking a creative collaborator, do not hesitate to get in 
+				touch. I love working on innovative projects and am always open to new 
+				collaboration opportunities. Together, we can bring ideas to life and 
+				create something truly special.
+			</p>
+			<p>
+				Thank you for visiting my portfolio homepage, and I hope you feel 
+				inspired and captivated by what you find here. Feel free to explore, 
+				have fun, and let your imagination soar. I am looking forward to sharing 
+				this creative journey with you.			
 			</p>
 		</main>
 		<Footer />

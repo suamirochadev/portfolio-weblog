@@ -1,18 +1,21 @@
 ---
 import HeaderLink from './HeaderLink.astro';
-import { SITE_TITLE } from '../consts';
+import { SITE_SUBTITLE } from '../consts';
+import ThemeIcon from './ThemeIcon.astro';
+
 ---
 
 <header>
+	<ThemeIcon />
 	<h2>
-		{SITE_TITLE}
+		{SITE_SUBTITLE}
 	</h2>
 	<nav>
 		<HeaderLink href="/">Home</HeaderLink>
 		<HeaderLink href="/blog">Blog</HeaderLink>
 		<HeaderLink href="/about">About</HeaderLink>
-		<HeaderLink href="https://twitter.com/astrodotbuild" target="_blank">Twitter</HeaderLink>
-		<HeaderLink href="https://github.com/withastro/astro" target="_blank">GitHub</HeaderLink>
+		<HeaderLink href="/links">Links</HeaderLink>
+		<HeaderLink href="mailto:suamirochati@gmail.com"  target="_blank">suamirochati@gmail.com</HeaderLink>
 	</nav>
 </header>
 <style>
@@ -20,6 +23,6 @@ import { SITE_TITLE } from '../consts';
 		margin: 0em 0 2em;
 	}
 	h2 {
-		margin: 0.5em 0;
+		margin: 0.5em 4.5em 0.5em 0;
 	}
 </style>
